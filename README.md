@@ -15,8 +15,6 @@ Link to the Web-Application: [https://flight-price-prediction-api.herokuapp.com/
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
-
 ## Screenshot
 
 ### Home Page
